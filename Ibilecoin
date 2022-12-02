@@ -1,0 +1,12 @@
+{
+  "$policyId": {585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477": {
+    "project": "Ibilecoin",
+    "categories": ["Defi"],
+    "socialLinks"?: {
+      "website"?: "https://ibilecoin.com/",
+      "twitter"?: "https://twitter.com/IBILECOIN1",
+      "discord"?: "https://discord.com/invite/NfZZN4AXrC,
+      "nomics": https://nomics.com/assets/blc4-ibilecoin"
+    }
+  }
+}
