@@ -1,0 +1,23 @@
+{
+  "name": "verified-tokens",
+  "version": "1.0.0",
+  "description": "Verified token registry on Minswap",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minswap/verified-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minswap/verified-tokens/issues"
+  },
+  "homepage": "https://github.com/minswap/verified-tokens#readme",
+  "dependencies": {
+    "ajv": "^8.11.2",
+    "ajv-formats": "^2.1.1"
+  }
+}
