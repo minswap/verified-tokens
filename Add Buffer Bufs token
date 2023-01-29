@@ -1,13 +1,12 @@
-},
-"F13515CA37AE4A0CF44F13860F325F0D017EE9988F2E7598C06E1D9A": {
-"project": "Muesli swap",
-"categories": ["DeFi"], 
-"socialLinks": {
-"website": "https://www.Bufferbufs.com",
-"twitter": "https://twitter.com/Bufferbufs",
-"discord": "https://discord.gg/rPjzaBxWje",
-"telegram": "https://t.me/joinchat/h_CwQI5DA8Q5ODk0",
-"coinMarketCap": ""
-     } 
-   }
- }
+{
+  "F13515CA37AE4A0CF44F13860F325F0D017EE9988F2E7598C06E1D9A": {
+    "project": "Buffer",
+    "categories": ["DeFi"],
+    "socialLinks"?: {
+      "website": "https://www.Bufferbufs.com",
+      "twitter": "https://twitter.com/Bufferbufs",
+      "discord": "https://discord.gg/rPjzaBxWje",
+      "telegram": "https://t.me/joinchat/h_CwQI5DA8Q5ODk0",
+    }
+  }
+}
