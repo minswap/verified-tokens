@@ -16,6 +16,7 @@ const CATEGORIES = [
   "AI",
   "Launchpad",
   "DAO",
+  "Stablecoin",
   "Other",
 ];
 
