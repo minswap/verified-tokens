@@ -23,3 +23,5 @@ If you don't know how to create pull request, create an issue with above informa
 
 2. Post your policy ID on Twitter or display your policy ID on your landing page.
 3. Our team will verify and approve in first-in-first-out order.
+
+Advice : Please make sure to read this page before applying for token registration https://docs.minswap.org/faq/token-launching-and-farming/1.-token-listing
