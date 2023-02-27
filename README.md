@@ -1,3 +1,7 @@
+## Requirements
+
+- Make sure your token [has a pool](https://docs.minswap.org/faq/token-launching-and-farming/1.-token-listing)
+
 ## How to verify your token
 
 1. Create Pull Request with following information to `tokens.json` file:
