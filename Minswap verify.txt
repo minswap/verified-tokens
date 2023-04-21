@@ -1,0 +1,12 @@
+{
+  87a59599f8f47db431de642329a275cd4b297f21f1517af9db442cee: {
+    "project": PopUpWorld,
+    "categories": ["Launchpad",NFT], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Other"
+    "socialLinks"?: {
+      "website"?: "https://www.popupworld.co.uk/popupworldtoken",
+      "twitter"?: "https://twitter.com/popupworldtoken",
+      "discord"?:"https://discord.com/invite/dYVRaMaJxt"
+    
+    }
+  }
+}
