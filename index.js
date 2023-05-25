@@ -18,6 +18,9 @@ const CATEGORIES = [
   "DAO",
   "Stablecoin",
   "Other",
+  "Payment",
+  "Governance",
+  "Utility",
 ];
 
 function main() {
