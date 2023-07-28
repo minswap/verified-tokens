@@ -1,0 +1,14 @@
+{
+  "$policyId": { 4632693c8a8ab3e325391bf319d69c24c54b823d70a85d870197fd38
+    "project": string,
+    "categories": string[Meme], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Stablecoin" | "Social" | "Other"
+    "socialLinks"?: { 
+      "website"?: string, https://linktr.ee/cardano_samurai
+      "twitter"?: string, https://twitter.com/cardano_samurai?s=21&t=DSyV3aOop8KdnnvcJBXh1Q
+      "discord"?: string, https://discord.com/invite/uHvYQttEWy
+      "telegram"?: string,
+      "coinMarketCap"?: string,
+      "coinGecko"?: string
+    }
+  }
+}
