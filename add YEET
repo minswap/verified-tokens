@@ -1,0 +1,14 @@
+{
+  "8ee6a10504961bac6531d79bb32a616187252fece59dc0ac90196451": {
+    "project": "YEET",
+    "categories": ["Meme"],
+    "socialLinks"?: {
+      "website"?: "https://www.yeetcoinada.com/",
+      "twitter"?: "https://twitter.com/YeetCoinAda",
+      "discord"?: "https://discord.com/invite/EjUay92NKS",
+      "telegram"?: "https://t.me/YeetCoinCommunity",
+      "coinMarketCap"?: string,
+      "coinGecko"?: string
+    }
+  }
+}
