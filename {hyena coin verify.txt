@@ -1,0 +1,14 @@
+{
+  "$policyId": { 6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e
+    "project": string, Hyena Coin
+    "categories": string[Meme,NFT], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Stablecoin" | "Social" | "Other"
+    "socialLinks"?: {
+      "website"?: string, https://hyenacoin.xyz/
+      "twitter"?: string, https://twitter.com/Hyena_Coin
+      "discord"?: string, https://discord.gg/9vGCr4N2nj
+      "telegram"?: string,
+      "coinMarketCap"?: string,
+      "coinGecko"?: string
+    }
+  }
+}
