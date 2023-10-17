@@ -1,0 +1,14 @@
+{
+  "$policyId": { 3744d5e39333c384505214958c4ed66591a052778512e56caf420f62
+    "project": string, Gamefi, NFT, Other
+    "categories": string[], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Stablecoin" | "Social" | "Other"
+    "socialLinks"?: {
+      "website"?: string, https://thenebula.xyz
+      "twitter"?: string, https://x.com/TheNebula_ADA?s=20
+      "discord"?: string, https://discord.gg/AnqUUQEWAt
+      "telegram"?: string,
+      "coinMarketCap"?: string,
+      "coinGecko"?: string
+    }
+  }
+}
