@@ -1,0 +1,13 @@
+{
+  "$policyId": { ddd400fe295630818a3ac8900494eae05f84a3e1ba05becbfbcadc93
+    "project": TheDonaldToken,
+    "categories": Meme,
+      "website"?: NA,
+      "twitter"?: https://twitter.com/TheDonaldToken,
+      "discord"?: https://discord.com/invite/TbbWknKkmU,
+      "telegram"?: NA,
+      "coinMarketCap"?: NA,
+      "coinGecko"?: NA
+    }
+  }
+}
