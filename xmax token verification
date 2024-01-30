@@ -1,0 +1,11 @@
+{
+  "bf6017c05f1a89c7a85b7c4780d28aa2f1f6759e702b82274ae55c8e": {
+    "project": "XMAX",
+    "categories": ["GameFi" ], 
+    "socialLinks"?: {
+      "website"?: "https://www.beta.xmaxcoinada.com",
+      "twitter"?: "https://twitter.com/xmaxcoinada",
+      "discord"?: "https://discord.gg/xmaxcoinada",
+    }
+  }
+}
