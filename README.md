@@ -1,6 +1,8 @@
 ## Requirements
 
-- Make sure your token [has a pool](https://docs.minswap.org/faq/token-launching-and-farming/1.-token-listing)
+- Make sure your token [has a pool](https://docs.minswap.org/faq/token-launching-and-farming/1.-token-listing) with at least 100 ADA TVL
+- Make sure your token has a logo added in the [Cardano Token Registry](https://github.com/cardano-foundation/cardano-token-registry)
+- A token that has been verified but doesn't meet the requirements in the future would be unverified
 
 ## How to verify your token
 
@@ -10,7 +12,7 @@
 {
   "$policyId": {
     "project": string,
-    "categories": string[], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Other"
+    "categories": string[], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Stablecoin" | "Social" | "Other"
     "socialLinks"?: {
       "website"?: string,
       "twitter"?: string,
