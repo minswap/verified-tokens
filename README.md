@@ -1,7 +1,7 @@
 ## Requirements
 
 - Make sure your token [has a pool](https://docs.minswap.org/faq/token-launching-and-farming/1.-token-listing) with at least 100 ADA TVL
-- Make sure your token has a logo added in the [Cardano Token Registry](https://github.com/cardano-foundation/cardano-token-registry)
+- Make sure your token has a logo added in the [Cardano Token Registry](https://github.com/cardano-foundation/cardano-token-registry) or CIP-68 metadata
 - A token that has been verified but doesn't meet the requirements in the future would be unverified
 
 ## How to verify your token
