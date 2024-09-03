@@ -18,6 +18,7 @@ const CATEGORIES = [
   "DAO",
   "Stablecoin",
   "Social",
+  "Media",
   "Other",
 ];
 
