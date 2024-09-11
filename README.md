@@ -12,7 +12,7 @@
 {
   "$policyId": {
     "project": string,
-    "categories": string[], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Stablecoin" | "Social" | "Other"
+    "categories": string[], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "Meme" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Stablecoin" | "Social" | "Media" | "Other"
     "socialLinks"?: {
       "website"?: string,
       "twitter"?: string,
