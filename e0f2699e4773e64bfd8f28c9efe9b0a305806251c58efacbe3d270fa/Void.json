@@ -2,10 +2,10 @@
   "$policyId": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa" {
     "project": "Voidium",
     "categories": ["DeFi"],
-    "socialLinks"?: {
-      "website"?: "https://terramecha.ca",
-      "twitter"?: "https://x.com/terra_mecha",
-      "discord"?: "https://discord.gg/fBsnJ8Uk"
+    "socialLinks": {
+      "website": "https://terramecha.ca",
+      "twitter": "https://x.com/terra_mecha",
+      "discord": "https://discord.gg/fBsnJ8Uk"
     }
   }
 }
