@@ -19,6 +19,7 @@ const CATEGORIES = [
   "Stablecoin",
   "Social",
   "Media",
+  "DePIN",
   "Other",
 ];
 
