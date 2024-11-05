@@ -10,7 +10,7 @@
 
 ```ts
 {
-  "$policyId": { 52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3
+  "$policyId": { 52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3,
     "project": "SNEK TRUMP",
     "categories": string["Meme"], // some of the following: "DeFi", "RealFi" |  "GameFi" |  "" |  "Bridge" |  "Metaverse" |  "Wallet" |  "NFT" |  "Oracle" |  "AI" |  "Launchpad" |  "DAO" | "Stablecoin" | "Social" | "Media" | "Other"
     "socialLinks"?: {
