@@ -20,6 +20,8 @@ const CATEGORIES = [
   "Social",
   "Media",
   "DePIN",
+  "RiskRatings", 
+  "IndexVaults",
   "Other",
 ];
 
