@@ -19,6 +19,9 @@ const CATEGORIES = [
   "Stablecoin",
   "Social",
   "Media",
+  "DePIN",
+  "Risk Ratings", 
+  "Index Vaults",
   "Other",
 ];
 
