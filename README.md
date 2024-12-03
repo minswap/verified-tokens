@@ -1,3 +1,6 @@
+# This repository is now deprecated and any and all current or future PRs and issues will be ignored and won't be merged. Please use [this](https://github.com/minswap/minswap-tokens) repository from now on.
+
+
 ## Requirements
 
 - Make sure your token [has a pool](https://docs.minswap.org/faq/token-launching-and-farming/1.-token-listing) with at least 100 ADA TVL
